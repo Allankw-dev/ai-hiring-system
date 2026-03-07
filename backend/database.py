@@ -5,7 +5,7 @@ from sqlalchemy.orm import declarative_base, sessionmaker
 engine = create_engine("sqlite:///database.db")
 
 Base = declarative_base()
-SessionLocal = sessionmaker(bind=engine)
+SessionLocal= sessionmaker(bind=engine)
 
 # Create Candidate Table
 
