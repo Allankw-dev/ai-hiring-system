@@ -19,7 +19,7 @@ This system simulates how modern Applicant Tracking Systems (ATS) help recruiter
 
 ---
 
-## 🧠 How the AI Works
+## 🧠 How the AI Works.
 
 The system uses **Natural Language Processing techniques** to compare resumes with job descriptions.
 
