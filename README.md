@@ -6,7 +6,7 @@ This system simulates how modern Applicant Tracking Systems (ATS) help recruiter
 
 ---
 
-## 📌 Features
+## 📌 Features.
 
 * AI-powered resume and job description matching
 * TF-IDF based Natural Language Processing
