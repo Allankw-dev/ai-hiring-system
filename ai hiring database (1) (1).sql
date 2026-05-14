@@ -3,7 +3,7 @@
 -- SIMPLIFIED VERSION FOR DATABASE 1
 -- =========================================
 
--- CREATE DATABASE
+-- CREATE DATABASE.
 IF DB_ID('AIHiringDB') IS NULL
 BEGIN
     CREATE DATABASE AIHiringDB;
